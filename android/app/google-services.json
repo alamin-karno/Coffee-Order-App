@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "649852217192",
+    "firebase_url": "https://text-recognition-477ed.firebaseio.com",
+    "project_id": "text-recognition-477ed",
+    "storage_bucket": "text-recognition-477ed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649852217192:android:e36039e5cf2c09d6a798dd",
+        "android_client_info": {
+          "package_name": "com.alaminkarno.coffer_order"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649852217192-t89u0c623eec96tbma17n82jfddco9bi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmzyjGMhTbl8MUedP4oAYhpre_0Rjox98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649852217192-t89u0c623eec96tbma17n82jfddco9bi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649852217192:android:2c81626492b6928ba798dd",
+        "android_client_info": {
+          "package_name": "com.teamblank.restapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649852217192-t89u0c623eec96tbma17n82jfddco9bi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmzyjGMhTbl8MUedP4oAYhpre_0Rjox98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "649852217192-t89u0c623eec96tbma17n82jfddco9bi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
